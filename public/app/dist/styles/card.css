@@ -1,0 +1,34 @@
+.card_bottom{
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.WhatsApp{
+    background-color: transparent !important;
+    border: none ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.07);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 10px;
+    font-weight: bold;
+    svg{
+        color: #10bf64;
+        font-size: 20px;
+    }
+
+}
+.properties_fillter{
+    .WhatsApp{
+      
+    }
+}
+.item-title{
+    margin-left: 20px;
+
+}

@@ -1,0 +1,10 @@
+.button-footer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+.WhatsApp{
+    background: white !important;
+    width: 30%;
+}
+}
