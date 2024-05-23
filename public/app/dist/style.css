@@ -1382,7 +1382,7 @@ body .dribbble img {
 }
 
 .face > div {
-  background-image: url(../../assets/images/section/bg-icon.jpg);
+  background-image: url(./../../images/fake_Image.png);
   position: absolute;
   height: 100%;
   width: 100%;

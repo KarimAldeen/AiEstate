@@ -66,7 +66,7 @@ export default function PropertyDetails3() {
                       <SwiperSlide>
                         <div className="image-detail">
                           <img
-                            src="/assets/images/slider/slider-detail-2.jpg"
+                            src="/images/home/slider-detail-2.jpg"
                             alt="images"
                           />
                         </div>
@@ -74,7 +74,7 @@ export default function PropertyDetails3() {
                       <SwiperSlide>
                         <div className="image-detail">
                           <img
-                            src="/assets/images/slider/slider-detail-2.jpg"
+                            src="/images/home/slider-detail-2.jpg"
                             alt="images"
                           />
                         </div>
@@ -82,7 +82,7 @@ export default function PropertyDetails3() {
                       <SwiperSlide>
                         <div className="image-detail">
                           <img
-                            src="/assets/images/slider/slider-detail-2.jpg"
+                            src="/images/home/slider-detail-2.jpg"
                             alt="images"
                           />
                         </div>
@@ -90,7 +90,7 @@ export default function PropertyDetails3() {
                       <SwiperSlide>
                         <div className="image-detail">
                           <img
-                            src="/assets/images/slider/slider-detail-2.jpg"
+                            src="/images/home/slider-detail-2.jpg"
                             alt="images"
                           />
                         </div>

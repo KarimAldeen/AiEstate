@@ -43,7 +43,6 @@ export default function FlatFeatured1() {
                         <div className="col-lg-12">
                             <div className="heading-section center">
                                 <h2>Featured properties</h2>
-                                <p className="text-color-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel lobortis justo</p>
                             </div>
                             <div className="flat-tabs themesflat-tabs">
                                 <TabMenu

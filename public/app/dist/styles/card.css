@@ -6,17 +6,20 @@
 
 }
 .WhatsApp{
+    text-align: center;
+    
     background-color: transparent !important;
     border: none ;
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: .3s ease-out;
+    color: #717171;
+    background-color: white !important;
+    border-radius: 8px;
+    padding-inline: 10px;
     gap: 5px;
-    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.07);
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-size: 10px;
-    font-weight: bold;
+    height: 40px;
     svg{
         color: #10bf64;
         font-size: 20px;
@@ -31,4 +34,9 @@
 .item-title{
     margin-left: 20px;
 
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

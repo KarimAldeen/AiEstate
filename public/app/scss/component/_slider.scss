@@ -327,7 +327,7 @@
         }
     }
     &.home2 {
-        background-image: url(./../../assets/images/slider/bg-slider-2.jpg);
+        background-image: url(./../../images/fake_Image.png);
         background-attachment: fixed;
         .slider-item {
             position: relative;
@@ -367,7 +367,7 @@
         }
     }
     &.home4 {
-        background-image: url(./../../assets/images/slider/bg-slider-4.jpg);
+        background-image: url(./../../images/fake_Image.png);
         background-attachment: fixed;
         .heading {
             padding: 201px 0 0;
@@ -409,7 +409,7 @@
         }
     }
     &.home5 {
-        background-image: url(./../../assets/images/slider/bg-slider-5.jpg);
+        background-image: url(./../../images/fake_Image.png);
         background-attachment: fixed;
         .slider-item .content {
             padding: 257px 0 243px;
@@ -599,13 +599,13 @@
         display: grid;
         margin: 17px 0px 17px !important;
         &:nth-child(1) {
-            background-image: url(./../../assets/images/slider/slider-pagi-1.jpg);
+            background-image: url(./../../images/fake_Image.png);
         }
         &:nth-child(2) {
-            background-image: url(./../../assets/images/slider/slider-pagi-2.jpg);
+            background-image: url(./../../images/fake_Image.png);
         }
         &:nth-child(3) {
-            background-image: url(./../../assets/images/slider/slider-pagi-3.jpg);
+            background-image: url(./../../images/fake_Image.png);
         }
         &.swiper-pagination-bullet-active {
             border: 5px solid $color-3;
@@ -668,16 +668,16 @@
         border: 5px solid $color-1;
         margin: 0px 8px 0px !important;
         &:nth-child(1) {
-            background-image: url(./../../assets/images/slider/slider-pagi-detail-1.jpg);
+            background-image: url(./../../images/fake_Image.png);
         }
         &:nth-child(2) {
-            background-image: url(./../../assets/images/slider/slider-pagi-detail-2.jpg);
+            background-image: url(./../../images/fake_Image.png);
         }
         &:nth-child(3) {
-            background-image: url(./../../assets/images/slider/slider-pagi-detail-3.jpg);
+            background-image: url(./../../images/fake_Image.png);
         }
         &:nth-child(4) {
-            background-image: url(./../../assets/images/slider/slider-pagi-detail-4.jpg);
+            background-image: url(./../../images/fake_Image.png);
         }
         &.swiper-pagination-bullet-active {
             border: 5px solid $color-3;

@@ -13,7 +13,9 @@ const Card = ({ activeIndex, propertyData }) => {
                         {propertyData.isFeatured && <span className="featured fs-12 fw-6">Featured</span>}
                         <span className="icon-bookmark"><i className="far fa-bookmark" /></span>
                         <div className="swiper-container carousel-2 img-style">
-                            <Link href="/property-detail-v1" className="icon-plus"><img src="/assets/images/icon/plus.svg" alt="images" /></Link>
+                            <Link href="/property-detail-v1" className="icon-plus">
+                                <img src="/assets/images/icon/plus.svg" alt="images" />
+                                </Link>
                             <Carousel2 start={0} end={4} />
                         </div>
                     </div>

@@ -18,7 +18,7 @@ export default function FlatMeet1() {
                             <div className="box hover-img">
                                 <div className="images relative img-style">
                                     <Link href="/agents-detail">
-                                        <img src={agent.imageUrl} alt="images" />
+                                        <img src={'/images/home/featured-1.jpg'} alt="images" />
                                     </Link>
                                     <div className="icon-socials">
                                         <Link href={agent.socialLinks.facebook}><i className="fab fa-facebook-f" /></Link>

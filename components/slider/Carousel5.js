@@ -46,42 +46,42 @@ export default function Carousel5() {
                 <SwiperSlide>
                     <div className="slogan-logo">
                         <Link href="#">
-                            <img src="/assets/images/img-box/brand-1.png" alt="images" />
+                            <img src="/images/home/brand-2.png" alt="images/home" />
                         </Link>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
                     <div className="slogan-logo">
                         <Link href="#">
-                            <img src="/assets/images/img-box/brand-2.png" alt="images" />
+                            <img src="/images/home/brand-2.png" alt="images/home" />
                         </Link>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
                     <div className="slogan-logo">
                         <Link href="#">
-                            <img src="/assets/images/img-box/brand-3.png" alt="images" />
+                            <img src="/images/home/brand-2.png" alt="images/home" />
                         </Link>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
                     <div className="slogan-logo">
                         <Link href="#">
-                            <img src="/assets/images/img-box/brand-4.png" alt="images" />
+                            <img src="/images/home/brand-2.png" alt="images/home" />
                         </Link>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
                     <div className="slogan-logo">
                         <Link href="#">
-                            <img src="/assets/images/img-box/brand-5.png" alt="images" />
+                            <img src="/images/home/brand-2.png" alt="images/home" />
                         </Link>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
                     <div className="slogan-logo">
                         <Link href="#">
-                            <img src="/assets/images/img-box/brand-6.png" alt="images" />
+                            <img src="/images/home/brand-2.png" alt="images/home" />
                         </Link>
                     </div>
                 </SwiperSlide>

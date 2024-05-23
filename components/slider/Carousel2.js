@@ -42,7 +42,7 @@ export default function Carousel2({ start, end }) {
 
             <Swiper {...swiperOptions} className="h-100">
                 {data.slice(start, end).map((item, i) => (
-                    <SwiperSlide><img src={`/assets/images/house/featured-${item.img}`} alt="images" className="h-100" /></SwiperSlide>
+                    <SwiperSlide><img src={`/images/home/featured-1.jpg`} alt="images" className="h-100" /></SwiperSlide>
                 ))}
             </Swiper>
             <div className="pagi2"><div className="swiper-pagination2"></div> </div>

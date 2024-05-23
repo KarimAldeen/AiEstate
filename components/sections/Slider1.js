@@ -20,7 +20,7 @@ export default function Slider1() {
             <section className="slider home">
                 <div className="slider-item">
                     <div className="img-slider">
-                        <img className="img-item" src="/assets/images/slider/bg-slider-1.png" alt="" />
+                        <img className="img-item" src="/images/home/bg-slider-1.png" alt="" />
                     </div>
                     <div className="container3  relative">
                         <div className="row">
@@ -251,7 +251,7 @@ export default function Slider1() {
                                 </div>
                                 <div className="images po-content-one">
                                     <div className="image">
-                                        <img className="img-item" src="/assets/images/slider/slider-1.png" alt="" />
+                                        <img className="img-item" src="/images/home/slider-1.png" alt="" />
                                     </div>
                                 </div>
                                 {/* <div className="curved-group home ">

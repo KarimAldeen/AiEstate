@@ -11,6 +11,7 @@ import Header2 from './header/Header2'
 import Header3 from "./header/Header3"
 import Header4 from "./header/Header4"
 import Header5 from "./header/Header5"
+import Navbar from "./header/Navbar"
 export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumbTitle, children }) {
     const [scroll, setScroll] = useState(0)
 
@@ -53,14 +54,8 @@ export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumb
             <div id="wrapper">
                 <div id="pagee" className="clearfix">
 
-                    {!headerStyle && <Header1 scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handleLogin={handleLogin} handleRegister={handleRegister} />}
-                    {headerStyle == 1 ? <Header1 scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handleLogin={handleLogin} handleRegister={handleRegister} /> : null}
-                    {headerStyle == 2 ? <Header2 scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handleLogin={handleLogin} handleRegister={handleRegister} /> : null}
-                    {headerStyle == 3 ? <Header3 scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handleLogin={handleLogin} handleRegister={handleRegister} /> : null}
-                    {headerStyle == 4 ? <Header4 scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handleLogin={handleLogin} handleRegister={handleRegister} /> : null}
-                    {headerStyle == 5 ? <Header5 scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handleLogin={handleLogin} handleRegister={handleRegister} /> : null}
-                    {/* <MobileMenu /> */}
-
+                   <Navbar/>
+                
 
                     {breadcrumbTitle && <Breadcrumb breadcrumbTitle={breadcrumbTitle} />}
 

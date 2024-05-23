@@ -15,7 +15,7 @@ export default function Slider3() {
             <section className="slider home2 home3">
                 <div className="slider-item">
                     <div className="img-slider">
-                        <img className="img-item" src="/assets/images/slider/bg-slider-3.jpg" alt="" />
+                        <img className="img-item" src="/images/home/bg-slider-3.jpg" alt="" />
                     </div>
                     <div className="container  relative">
                         <div className="row">
