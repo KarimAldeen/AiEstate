@@ -16,10 +16,15 @@
     transition: .3s ease-out;
     color: #717171;
     background-color: white !important;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.05);
+    
     border-radius: 8px;
     padding-inline: 10px;
+    width: 150px;
     gap: 5px;
     height: 40px;
+    align-self: center;
+    
     svg{
         color: #10bf64;
         font-size: 20px;
@@ -28,7 +33,6 @@
 }
 .properties_fillter{
     .WhatsApp{
-      
     }
 }
 .item-title{

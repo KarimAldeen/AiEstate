@@ -9,8 +9,8 @@ export default function FlatBrand1() {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">
-                            <div className="title-section">
-                                <h4>Trusted by over 150+ major companies</h4>
+                            <div className="title-section center">
+                                <h4 className='mb-4'>Trusted by over 150+ major companies</h4>
                             </div>
                             <div className="swiper-container carousel-5">
                                 <Carousel5 />
