@@ -3069,7 +3069,7 @@
 }
 
 .flat-contact2 {
-  background-image: url(./../../images/fake_Image.png);
+  /* background-image: url(./../../images/fake_Image.png); */
   background-repeat: no-repeat;
   background-size: cover;
   padding: 100px 0 62px;
